@@ -1,0 +1,28 @@
+.App{
+    display: flex;
+    justify-content: space-between
+}
+.list{
+    height: 400px;
+    width: 100px;
+    background-color: aquamarine;
+    min-width: 300px;
+}
+
+.task{
+    display: inline-block;
+    background-color: blueviolet;
+    border-right: 1px dotted;
+    margin: 10px;
+    width: 80%;
+    border-radius: 20px;
+    text-align: center;
+}
+.teamPicture{
+    border-radius: 30px;
+    width: 20px
+}
+.teamPictures{
+    background-color: black;
+    height: 40px;
+}
